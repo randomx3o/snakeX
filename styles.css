@@ -1,6 +1,7 @@
 <!DOCTYPE css>
 <! --- this is the css folder --->
 <style>
+ <head>
         body {
    background-image: url('comunelogo.jpg');
    background-repeat: no-repeat;
@@ -11,7 +12,7 @@
  <body>
   <style>
 
-         p1 {
+         h6 {
       color: lightgreen;
  }         
       

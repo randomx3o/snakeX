@@ -2,7 +2,7 @@
 <! --- this is the css folder --->
 <style>
  <head>
-        body {
+        .body {
    background-image: url('comunelogo.jpg');
    background-repeat: no-repeat;
    background-attachment: fixed;
@@ -17,7 +17,7 @@
  }         
       
     
-         p1 {
+         .p1 {
    text-align: center;
  }
                 h6 {
@@ -26,7 +26,7 @@
    
    
    
-         p1 {
+         .p1 {
        text-decoration: none;
      }   
          p.uppercase {
@@ -36,6 +36,11 @@
             .p1 {
   font-family: "Lucida Console", "Courier New", monospace;
  }
+                  .h6 {
+  font-family: "Lucida Console", "Courier New", monospace;
+ }
+
+
              div {
   border: 1p solid white;
   margin-top: 100px;

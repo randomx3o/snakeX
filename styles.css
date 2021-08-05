@@ -2,8 +2,8 @@
 <! --- this is the css folder --->
 <style>
  <head>
-        .body {
-   background-image: url('comunelogo.jpg');
+        body {
+   background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2zmOFW9y5GU1aFzJpYkZJ_rm6AY7vaN61bA&usqp=CAU');
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-size: 100% 100%;
@@ -29,9 +29,11 @@
          p1 {
        text-decoration: none;
      }   
-         p.uppercase {
-  text-transform: uppercase;
-}
+          h6 {
+       text-decoration: none;
+     }  
+
+
      
             p1 {
   font-family: "Lucida Console", "Courier New", monospace;
@@ -48,9 +50,7 @@
      h6 {
        text-decoration: none;
      }           
-               h6 {
-  font-family: "Lucida Console", "Courier New", monospace;
- }
+             
 
 
 

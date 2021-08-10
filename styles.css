@@ -42,9 +42,8 @@
   font-family: "Lucida Console", "Courier New", monospace;
  }
           .1button {
-   text-align: center;
-   height: 200px;
-   width: 50%;
+   height: 350px;
+   width: 100%;
    background-color: darkgreen;        
 }
 

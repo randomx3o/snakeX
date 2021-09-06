@@ -8,37 +8,21 @@
 
              h6 {
       color: lightgreen;
+      text-align: center;
+      text-decoration: none;
+      font-family: "Lucida Console", "Courier New", monospace;
  }         
+          
              p1 {
       color: lightgreen;
- }   
-
-
-    
-         p1 {
-   text-align: center;
+      text-align: center;
+      text-decoration: none;
+      font-family: "Lucida Console", "Courier New", monospace;
  }
-          h6 {
-   text-align: center;
- } 
-   
-   
-   
-         p1 {
-       text-decoration: none;
-     }   
-          h6 {
-       text-decoration: none;
-     }  
+        
 
 
      
-            p1 {
-  font-family: "Lucida Console", "Courier New", monospace;
- }
-                  h6 {
-  font-family: "Lucida Console", "Courier New", monospace;
- }
      
 
 
